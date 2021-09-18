@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/20212_maua_ecm252_react_jogo_continhas/static/js/main.96e9b20a.chunk.js",
+    "main.js.map": "/20212_maua_ecm252_react_jogo_continhas/static/js/main.96e9b20a.chunk.js.map",
+    "runtime-main.js": "/20212_maua_ecm252_react_jogo_continhas/static/js/runtime-main.ebbde36d.js",
+    "runtime-main.js.map": "/20212_maua_ecm252_react_jogo_continhas/static/js/runtime-main.ebbde36d.js.map",
+    "static/css/2.c2258cbb.chunk.css": "/20212_maua_ecm252_react_jogo_continhas/static/css/2.c2258cbb.chunk.css",
+    "static/js/2.37ea7d48.chunk.js": "/20212_maua_ecm252_react_jogo_continhas/static/js/2.37ea7d48.chunk.js",
+    "static/js/2.37ea7d48.chunk.js.map": "/20212_maua_ecm252_react_jogo_continhas/static/js/2.37ea7d48.chunk.js.map",
+    "static/js/3.83bc023c.chunk.js": "/20212_maua_ecm252_react_jogo_continhas/static/js/3.83bc023c.chunk.js",
+    "static/js/3.83bc023c.chunk.js.map": "/20212_maua_ecm252_react_jogo_continhas/static/js/3.83bc023c.chunk.js.map",
+    "index.html": "/20212_maua_ecm252_react_jogo_continhas/index.html",
+    "static/css/2.c2258cbb.chunk.css.map": "/20212_maua_ecm252_react_jogo_continhas/static/css/2.c2258cbb.chunk.css.map",
+    "static/js/2.37ea7d48.chunk.js.LICENSE.txt": "/20212_maua_ecm252_react_jogo_continhas/static/js/2.37ea7d48.chunk.js.LICENSE.txt",
+    "static/js/3.83bc023c.chunk.js.LICENSE.txt": "/20212_maua_ecm252_react_jogo_continhas/static/js/3.83bc023c.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/20212_maua_ecm252_react_jogo_continhas/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebbde36d.js",
+    "static/css/2.c2258cbb.chunk.css",
+    "static/js/2.37ea7d48.chunk.js",
+    "static/js/main.96e9b20a.chunk.js"
+  ]
+}
